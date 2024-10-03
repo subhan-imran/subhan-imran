@@ -32,10 +32,10 @@
 </div>
 
 # Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=subhan-imran&theme=dark&background=000000)]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subhan-imran&layout=donut-vertical&theme=vision-friendly-dark)]
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=subhan-imran&theme=dark&background=000000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subhan-imran&layout=donut-vertical&theme=vision-friendly-dark)
 
 # 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=nord&quote=Sic%20Parvis%20Magna&author=Nathan%20Drake)]
+![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=nord&quote=Sic%20Parvis%20Magna&author=Nathan%20Drake)
 
 </div>
