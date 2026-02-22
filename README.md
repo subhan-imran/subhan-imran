@@ -20,7 +20,7 @@
 </div>
 
   # About Me
-📱 I’m currently working on a Fitness App<br>🌱 I’m currently learning NodeJs
+📱 I’m currently working on a Rastaurant App<br>🌱 I’m currently learning Everything
 
 
 # What I Do
